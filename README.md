@@ -71,9 +71,9 @@ Make sure to:
 
 ---
 
-## 📷 Screenshots (Optional)
+## 📷 Application Flow 
 
-> Add app UI screenshots here to showcase your design and functionality.
+![RMS Screenshot](https://github.com/shaharyar4t4/Meet-Bell-Your-Smart-To-Do-Reminder-App/blob/master/assets/images/app-flow.jpg)
 
 ---
 
@@ -81,7 +81,7 @@ Make sure to:
 
 **Shaharyar Ali**  
 Junior Flutter Developer  
-[LinkedIn](#) | [Portfolio](#) | [Email](mailto:youremail@example.com)
+[LinkedIn](https://www.linkedin.com/in/shaharyar-ali-99b998245/) | [Portfolio](https://devshaharyar.netlify.app/) | [Email](mailto:youremail@example.com)
 
 ---
 
