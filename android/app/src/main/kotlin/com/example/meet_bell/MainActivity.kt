@@ -1,4 +1,4 @@
-package com.example.meet_bell
+package com.shaharyar.meet_bell
 
 import io.flutter.embedding.android.FlutterActivity
 
